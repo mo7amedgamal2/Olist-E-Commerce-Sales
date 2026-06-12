@@ -155,33 +155,6 @@ Download the raw CSV dataset from Kaggle:
 4. Click **Refresh** to load the data.
 
 ---
-
-## 📤 Preparing for GitHub | خطوات الرفع على GitHub
-
-To add this project to your GitHub profile and make it look clean:
-
-1. **Initialize Git in the project root**:
-   ```bash
-   git init
-   ```
-2. **Stage your files** (the `.gitignore` will automatically prevent heavy CSVs from being staged):
-   ```bash
-   git add .
-   ```
-3. **Commit your changes**:
-   ```bash
-   git commit -m "Initial commit: Organized Olist SQL and Power BI project"
-   ```
-4. **Link to your GitHub remote repository**:
-   ```bash
-   git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-   ```
-5. **Push to GitHub**:
-   ```bash
-   git push -u origin main
-   ```
-
----
-*Created with 💙 to build a stellar portfolio project.*
-*تم إعداد هذا المشروع بكل شغف ليكون إضافة متميزة لمعرض أعمالك.*
+## 👤 Author
+**Mohamed Gamal Eldeen Ismail**  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-gamal-eldeen/) | 💻 [GitHub](https://github.com/mo7amedgamal2)
