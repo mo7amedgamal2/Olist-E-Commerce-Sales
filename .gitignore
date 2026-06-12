@@ -1,0 +1,14 @@
+# Exclude raw datasets and zip files (due to large size)
+Olist Dataset/*.csv
+*.zip
+
+# Exclude temporary files and OS metadata
+Thumbs.db
+.DS_Store
+~$*.docx
+~$*.xlsx
+
+# Local user/system files
+*.log
+tmp/
+scratch/
